@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "bad1-hackathon",
-  description: "bad1-hackathon",
+  description: "Next.js boilerplate for bad1-hackathon",
 };
 
 export default function RootLayout({
